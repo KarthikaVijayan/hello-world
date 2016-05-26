@@ -1,4 +1,4 @@
 # hello-world
 This is a simple hello world repository
-Testing commit changes
+Deleting the message and adding new
 
